@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2a0380d-05be-4d30-8edc-5e91b264a40d" name="更改" comment="feat:github actions test">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main-local.yml" afterDir="false" />
+    <list default="true" id="a2a0380d-05be-4d30-8edc-5e91b264a40d" name="更改" comment="feat:检出代码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="260109_xfg_maven_jar" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "git-widget-placeholder": "260109__xfg__maven__jar",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/develop/code/openai-code-review/openai-code-review-test/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -87,6 +86,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.OpenAiCodeReview" />
+        <item itemvalue="应用程序.OpenAiCodeReview" />
+        <item itemvalue="应用程序.OpenAiCodeReview" />
         <item itemvalue="应用程序.OpenAiCodeReview" />
       </list>
     </recent_temporary>
@@ -124,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767942553043</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat:检出代码">
+      <option name="closed" value="true" />
+      <created>1767946783518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767946783518</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,22 +166,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:init project" />
     <MESSAGE value="feat:github actions test" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:github actions test" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/openai-code-review-sdk/src/main/java/plus/gaga/middleware/sdk/OpenAiCodeReview.java</url>
-          <line>3</line>
-          <properties class="plus.gaga.middleware.sdk.OpenAiCodeReview" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="feat:检出代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:检出代码" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
