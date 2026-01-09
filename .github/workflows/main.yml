@@ -28,4 +28,4 @@ jobs:
         run: |
           cd openai-code-review-test/src/main/java
           javac plus/gaga/middleware/sdk/OpenAiCodeReview.java
-          java plus.gaga.middleware.sk.OpenAiCodeReview
+          java plus.gaga.middleware.sdk.OpenAiCodeReview
